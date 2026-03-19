@@ -1,0 +1,17 @@
+/* Ajuste de tamanho do texto dos badges do "hero" */
+.hero-badge {
+  font-size: 0.95rem;
+}
+ 
+/* Tamanho padrão das imagens dos carrosseis */
+.carousel-item img {
+  height: 100px;      /* ajuste a altura como quiser */
+  object-fit: cover;  /* mantém proporção e corta o excesso */
+}
+ 
+/* Rodapé */
+footer a {
+  text-decoration: none;
+  --bs-primary
+--bs-primary-rgb
+}
